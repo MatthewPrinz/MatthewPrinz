@@ -9,4 +9,6 @@ I graduated from the University of Texas at Austin in May 2021 with a degree in 
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1200px-Rust_programming_language_black_logo.svg.png"></code>
 <code><img height="20" src="https://banner2.cleanpng.com/20180526/oqt/kisspng-microsoft-sql-server-mysql-database-logo-5b098c6ebad6d7.7316225815273524307653.jpg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/1200px-Linux_Mint_logo_without_wordmark.svg.png"></code>
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatthewPrinz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
